@@ -674,7 +674,7 @@ static void setup_environment(const void *fdt)
 		/* Ensure the NIC specific bytes of the mac are not all 0 */
 		if ((sid[3] & 0xffffff) == 0)
 			sid[3] |= 0x800000;
-
+#ifdef CONFIG_CMD_NET
 		for (i = 0; i < 4; i++) {
 			sprintf(ethaddr, "ethernet%d", i);
 			if (!fdt_get_alias(fdt, ethaddr))
@@ -698,7 +698,7 @@ static void setup_environment(const void *fdt)
 
 			eth_env_set_enetaddr(ethaddr, mac_addr);
 		}
-
+#endif
 		if (!env_get("serial#")) {
 			snprintf(serial_string, sizeof(serial_string),
 				"%08x%08x", sid[0], sid[3]);
