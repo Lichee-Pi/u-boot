@@ -15,7 +15,7 @@
 #include <command.h>
 #include <mpc83xx.h>
 #include <asm/processor.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <tsec.h>
 #include <netdev.h>
 #include <fsl_esdhc.h>

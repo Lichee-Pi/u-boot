@@ -3,9 +3,9 @@
  * Copyright (C) 2012 David Gibson, IBM Corporation.
  * SPDX-License-Identifier:	GPL-2.0+ BSD-2-Clause
  */
-#include <libfdt_env.h>
+#include <libfdt_env_uboot.h>
 #include <fdt.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 #include "libfdt_internal.h"
 

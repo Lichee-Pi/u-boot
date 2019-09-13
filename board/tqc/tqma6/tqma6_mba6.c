@@ -20,7 +20,7 @@
 
 #include <common.h>
 #include <fsl_esdhc.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <malloc.h>
 #include <i2c.h>
 #include <micrel.h>

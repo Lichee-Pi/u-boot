@@ -10,7 +10,7 @@
 #include <common.h>
 #include <lcd.h>
 #include <fdt_support.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 DECLARE_GLOBAL_DATA_PTR;
 

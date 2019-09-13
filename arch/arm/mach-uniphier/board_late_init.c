@@ -8,7 +8,7 @@
 
 #include <common.h>
 #include <spl.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <nand.h>
 #include <linux/io.h>
 #include <../drivers/mtd/nand/denali.h>

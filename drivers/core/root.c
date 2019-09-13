@@ -11,7 +11,7 @@
 #include <errno.h>
 #include <fdtdec.h>
 #include <malloc.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <dm/device.h>
 #include <dm/device-internal.h>
 #include <dm/lists.h>

@@ -10,7 +10,7 @@
 #include <asm/processor.h>
 #include <asm/io.h>
 #include <spd_sdram.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 DECLARE_GLOBAL_DATA_PTR;

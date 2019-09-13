@@ -14,7 +14,7 @@
  */
 #include <common.h>
 #include <console.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <asm/ppc440.h>
 #include <asm/processor.h>

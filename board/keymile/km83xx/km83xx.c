@@ -23,7 +23,7 @@
 #include <asm/mmu.h>
 #include <asm/processor.h>
 #include <pci.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <post.h>
 
 #include "../common/common.h"

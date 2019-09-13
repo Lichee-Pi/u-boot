@@ -19,7 +19,7 @@
 #endif
 
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #endif
 
 int fixed_sdram(void);

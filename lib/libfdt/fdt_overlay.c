@@ -1,7 +1,7 @@
-#include "libfdt_env.h"
+#include "libfdt_env_uboot.h"
 
 #include <fdt.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 #include "libfdt_internal.h"
 

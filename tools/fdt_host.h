@@ -8,7 +8,7 @@
 #define __FDT_HOST_H__
 
 /* Make sure to include u-boot version of libfdt include files */
-#include "../include/libfdt.h"
+#include "../include/libfdt_uboot.h"
 #include "../include/fdt_support.h"
 
 int fit_check_sign(const void *working_fdt, const void *key);

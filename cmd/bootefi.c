@@ -11,8 +11,8 @@
 #include <dm/device.h>
 #include <efi_loader.h>
 #include <errno.h>
-#include <libfdt.h>
-#include <libfdt_env.h>
+#include <libfdt_uboot.h>
+#include <libfdt_env_uboot.h>
 #include <memalign.h>
 #include <asm/global_data.h>
 #include <asm-generic/sections.h>

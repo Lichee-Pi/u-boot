@@ -16,7 +16,7 @@
 #include <common.h>
 #include <dm.h>
 #include <fdtdec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <malloc.h>
 #include <usb.h>
 #include <watchdog.h>

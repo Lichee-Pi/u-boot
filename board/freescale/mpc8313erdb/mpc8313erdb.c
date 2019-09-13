@@ -8,7 +8,7 @@
 
 #include <common.h>
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #endif
 #include <pci.h>
 #include <mpc83xx.h>

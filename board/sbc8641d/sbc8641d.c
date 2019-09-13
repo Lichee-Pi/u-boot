@@ -20,7 +20,7 @@
 #include <asm/fsl_pci.h>
 #include <fsl_ddr_sdram.h>
 #include <asm/fsl_serdes.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 long int fixed_sdram (void);

@@ -10,7 +10,7 @@
 #include <common.h>
 #include <errno.h>
 #include <fdtdec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <asm/cpu.h>
 #include <asm/microcode.h>
 #include <asm/msr.h>

@@ -5,8 +5,8 @@
  */
 
 #include <common.h>
-#include <libfdt.h>
-#include <libfdt_env.h>
+#include <libfdt_uboot.h>
+#include <libfdt_env_uboot.h>
 #include <fdt_support.h>
 
 #include <fm_eth.h>

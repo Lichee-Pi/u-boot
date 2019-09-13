@@ -11,7 +11,7 @@
 #include <malloc.h>
 #include <asm/io.h>
 
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <i2c.h>
 #include "../common/common.h"
 

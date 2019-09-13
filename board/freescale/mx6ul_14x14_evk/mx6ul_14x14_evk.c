@@ -694,7 +694,7 @@ int checkboard(void)
 }
 
 #ifdef CONFIG_SPL_BUILD
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <spl.h>
 #include <asm/arch/mx6-ddr.h>
 

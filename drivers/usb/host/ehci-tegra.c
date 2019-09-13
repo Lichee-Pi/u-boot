@@ -16,7 +16,7 @@
 #include <asm/arch-tegra/clk_rst.h>
 #include <usb.h>
 #include <usb/ulpi.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdtdec.h>
 
 #include "ehci.h"

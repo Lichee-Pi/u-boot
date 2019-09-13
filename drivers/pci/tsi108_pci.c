@@ -16,7 +16,7 @@
 #include <asm/io.h>
 #include <tsi108.h>
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #endif
 

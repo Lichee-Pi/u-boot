@@ -5,7 +5,7 @@
  */
 
 #include <common.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <linux/sizes.h>
 #include <linux/kernel.h>

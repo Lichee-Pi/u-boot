@@ -6,7 +6,7 @@
  */
 
 #include <common.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <asm/spin_table.h>
 
 int spin_table_update_dt(void *fdt)

@@ -14,7 +14,7 @@
 #include <fsl_ddr_sdram.h>
 #include <ioports.h>
 #include <spd_sdram.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 #include "../common/cadmus.h"

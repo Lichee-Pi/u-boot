@@ -8,7 +8,7 @@
 #include <common.h>
 #include <dm.h>
 #include <fdtdec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <pci.h>
 #include <dm/lists.h>
 

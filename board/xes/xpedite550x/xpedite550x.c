@@ -12,7 +12,7 @@
 #include <asm/fsl_pci.h>
 #include <asm/io.h>
 #include <asm/cache.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <pca953x.h>
 

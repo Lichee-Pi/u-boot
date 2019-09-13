@@ -14,7 +14,7 @@
 #include <xyzModem.h>
 #include <asm/u-boot.h>
 #include <asm/utils.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 #define BUF_SIZE 1024
 

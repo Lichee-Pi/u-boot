@@ -123,7 +123,7 @@ int dram_init(void)
 }
 
 #ifdef CONFIG_SPL_BUILD
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <spl.h>
 
 #include <asm/arch/crm_regs.h>

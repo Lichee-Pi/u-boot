@@ -8,7 +8,7 @@
 #include <common.h>
 #include <errno.h>
 #include <image.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <spl.h>
 
 static ulong fdt_getprop_u32(const void *fdt, int node, const char *prop)

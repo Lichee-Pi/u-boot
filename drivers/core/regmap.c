@@ -8,7 +8,7 @@
 #include <common.h>
 #include <dm.h>
 #include <errno.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <malloc.h>
 #include <mapmem.h>
 #include <regmap.h>
