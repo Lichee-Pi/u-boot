@@ -17,7 +17,7 @@
 #include <spd_sdram.h>
 #include <i2c.h>
 #include <ioports.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 #include "bcsr.h"

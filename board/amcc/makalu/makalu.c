@@ -8,7 +8,7 @@
 #include <common.h>
 #include <asm/ppc4xx.h>
 #include <asm/ppc405.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <asm/processor.h>
 #include <asm/ppc4xx-gpio.h>
 #include <asm/io.h>

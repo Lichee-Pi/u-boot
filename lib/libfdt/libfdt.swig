@@ -3,7 +3,7 @@
 
 %{
 #define SWIG_FILE_WITH_INIT
-#include "libfdt.h"
+#include "libfdt_uboot.h"
 %}
 
 %pythoncode %{

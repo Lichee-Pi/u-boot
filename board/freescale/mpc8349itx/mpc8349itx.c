@@ -17,7 +17,7 @@
 #include <spd_sdram.h>
 #include <asm/mmu.h>
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #endif
 
 #ifndef CONFIG_SPD_EEPROM

@@ -17,7 +17,7 @@
 #include <asm/fsl_serdes.h>
 #include <spd.h>
 #include <miiphy.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <spd_sdram.h>
 #include <fdt_support.h>
 #include <fsl_mdio.h>

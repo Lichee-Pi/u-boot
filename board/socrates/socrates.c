@@ -17,7 +17,7 @@
 #include <asm/immap_85xx.h>
 #include <ioports.h>
 #include <flash.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <asm/io.h>
 #include <i2c.h>

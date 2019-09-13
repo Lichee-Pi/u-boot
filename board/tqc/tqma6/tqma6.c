@@ -20,7 +20,7 @@
 #include <asm/imx-common/spi.h>
 #include <common.h>
 #include <fsl_esdhc.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <i2c.h>
 #include <mmc.h>
 #include <power/pfuze100_pmic.h>

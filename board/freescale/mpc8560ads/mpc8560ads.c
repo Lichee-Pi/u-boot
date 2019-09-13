@@ -18,7 +18,7 @@
 #include <ioports.h>
 #include <spd_sdram.h>
 #include <miiphy.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <asm/fsl_lbc.h>
 

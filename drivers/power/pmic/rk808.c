@@ -9,7 +9,7 @@
 #include <dm.h>
 #include <errno.h>
 #include <fdtdec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <power/rk808_pmic.h>
 #include <power/pmic.h>
 

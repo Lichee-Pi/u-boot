@@ -30,7 +30,7 @@
 #include <mapmem.h>
 
 #if IMAGE_ENABLE_FIT || IMAGE_ENABLE_OF_LIBFDT
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <fpga.h>
 #include <xilinx.h>

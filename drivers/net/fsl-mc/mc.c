@@ -7,7 +7,7 @@
 #include <errno.h>
 #include <linux/bug.h>
 #include <asm/io.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <fsl-mc/fsl_mc.h>
 #include <fsl-mc/fsl_mc_sys.h>

@@ -11,7 +11,7 @@
 #include <fm_eth.h>
 #include <fsl_mdio.h>
 #include <fsl_dtsec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <malloc.h>
 #include <asm/arch/fsl_serdes.h>
 

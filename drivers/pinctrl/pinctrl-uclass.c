@@ -5,7 +5,7 @@
  */
 
 #include <common.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <linux/err.h>
 #include <linux/list.h>
 #include <dm/device.h>

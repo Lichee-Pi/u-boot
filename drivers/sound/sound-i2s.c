@@ -8,7 +8,7 @@
 #include <malloc.h>
 #include <common.h>
 #include <asm/io.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdtdec.h>
 #include <i2c.h>
 #include <i2s.h>

@@ -7,7 +7,7 @@
 
 #include <common.h>
 #include <asm/ppc440.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <i2c.h>
 #include <asm/processor.h>

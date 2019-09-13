@@ -446,7 +446,7 @@ int board_late_init(void)
 
 #ifdef CONFIG_SPL_BUILD
 
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <asm/arch/mx6-ddr.h>
 
 static const struct mx6sx_iomux_ddr_regs mx6_ddr_ioregs = {

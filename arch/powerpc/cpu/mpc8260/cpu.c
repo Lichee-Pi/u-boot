@@ -33,7 +33,7 @@
 #include <asm/cpm_8260.h>
 
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #endif
 

@@ -16,7 +16,7 @@
 #include <pci.h>
 #include <asm/processor.h>
 #include <asm/io.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <netdev.h>
 #include <led-display.h>
 #include <linux/err.h>

@@ -6,7 +6,7 @@
  */
 
 #include <common.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <linux/kernel.h>
 
 #include "init.h"

@@ -260,7 +260,7 @@ class DtbPlatdata:
         README.of-plat for more information.
         """
         self.Out('#include <stdbool.h>\n')
-        self.Out('#include <libfdt.h>\n')
+        self.Out('#include <libfdt_uboot.h>\n')
 
         # Output the struct definition
         for name in sorted(structs):

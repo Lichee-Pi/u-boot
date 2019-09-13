@@ -15,7 +15,7 @@
 #include <asm/mmu.h>
 #include <asm/immap_85xx.h>
 #include <fsl_ddr_sdram.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 #if defined(CONFIG_DDR_ECC) && !defined(CONFIG_ECC_INIT_VIA_DDRCONTROLLER)

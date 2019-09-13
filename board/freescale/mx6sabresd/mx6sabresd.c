@@ -715,7 +715,7 @@ int checkboard(void)
 
 #ifdef CONFIG_SPL_BUILD
 #include <spl.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 #ifdef CONFIG_SPL_OS_BOOT
 int spl_start_uboot(void)

@@ -19,7 +19,7 @@
 #include <pci.h>
 #include <netdev.h>
 #include <miiphy.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <mb862xx.h>
 #include <video_fb.h>
 #include <asm/processor.h>

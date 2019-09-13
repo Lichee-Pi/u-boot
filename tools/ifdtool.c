@@ -18,7 +18,7 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include "ifdtool.h"
 
 #undef DEBUG

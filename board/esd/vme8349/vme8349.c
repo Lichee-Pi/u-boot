@@ -17,7 +17,7 @@
 #include <mpc83xx.h>
 #include <asm/mpc8349_pci.h>
 #if defined(CONFIG_OF_LIBFDT)
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #endif
 #include <asm/io.h>
 #include <asm/mmu.h>

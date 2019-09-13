@@ -8,7 +8,7 @@
 #include <dm.h>
 #include <errno.h>
 #include <serial.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <fdtdec.h>
 #include <asm/sections.h>

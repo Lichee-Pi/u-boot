@@ -30,7 +30,7 @@
 #else
 #include "is42s16800a-7t.h"
 #endif
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 #include <i2c.h>
 #include <mb862xx.h>

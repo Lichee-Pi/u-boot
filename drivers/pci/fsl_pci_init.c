@@ -879,7 +879,7 @@ int fsl_pcie_init_board(int busno)
 #endif
 
 #ifdef CONFIG_OF_BOARD_SETUP
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 void ft_fsl_pci_setup(void *blob, const char *pci_compat,

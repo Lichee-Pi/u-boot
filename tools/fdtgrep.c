@@ -16,7 +16,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include <../include/libfdt.h>
+#include <../include/libfdt_uboot.h>
 #include <libfdt_internal.h>
 
 /* Define DEBUG to get some debugging output on stderr */

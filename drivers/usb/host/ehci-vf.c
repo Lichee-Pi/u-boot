@@ -20,7 +20,7 @@
 #include <asm/imx-common/iomux-v3.h>
 #include <asm/imx-common/regs-usbphy.h>
 #include <usb/ehci-ci.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdtdec.h>
 
 #include "ehci.h"

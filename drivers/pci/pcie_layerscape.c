@@ -769,7 +769,7 @@ void pci_init_board(void)
 }
 
 #ifdef CONFIG_OF_BOARD_SETUP
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <fdt_support.h>
 
 static void ft_pcie_ls_setup(void *blob, const char *pci_compat,

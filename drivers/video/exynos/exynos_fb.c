@@ -13,7 +13,7 @@
 #include <div64.h>
 #include <dm.h>
 #include <fdtdec.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <panel.h>
 #include <video.h>
 #include <video_bridge.h>

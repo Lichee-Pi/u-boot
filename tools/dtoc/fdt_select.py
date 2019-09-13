@@ -17,7 +17,7 @@ try:
 except ImportError:
     have_libfdt = False
 
-force_fallback = False
+force_fallback = True
 
 def FdtScan(fname, _force_fallback=False):
     """Returns a new Fdt object from the implementation we are using"""

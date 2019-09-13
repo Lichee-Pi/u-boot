@@ -15,7 +15,7 @@
 #include <config.h>
 #include <common.h>
 #include <net.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 #include <tsec.h>
 #include <fdt_support.h>
 

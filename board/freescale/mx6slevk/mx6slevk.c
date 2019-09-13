@@ -409,7 +409,7 @@ int checkboard(void)
 
 #ifdef CONFIG_SPL_BUILD
 #include <spl.h>
-#include <libfdt.h>
+#include <libfdt_uboot.h>
 
 const struct mx6sl_iomux_ddr_regs mx6_ddr_ioregs = {
 	.dram_sdqs0 = 0x00003030,
