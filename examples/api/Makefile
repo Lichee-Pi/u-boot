@@ -39,6 +39,7 @@ EXT_COBJ-$(CONFIG_LIB_UUID) += lib/uuid.o
 EXT_SOBJ-$(CONFIG_PPC) += arch/powerpc/lib/ppcstring.o
 ifeq ($(ARCH),arm)
 EXT_SOBJ-$(CONFIG_USE_ARCH_MEMSET) += arch/arm/lib/memset.o
+AFLAGS_memset.o := -DMEMSET_NO_THUMB_BUILD
 endif
 
 # Create a list of object files to be compiled
